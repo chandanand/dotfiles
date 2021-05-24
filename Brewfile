@@ -9,3 +9,6 @@ brew "fish"
 
 # Prompt: https://starship.rs
 brew "starship"
+
+# tmux
+brew "tmux"

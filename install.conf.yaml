@@ -18,6 +18,10 @@
       force: true
       relink: true
       path: starship.toml
+    ~/.tmux.conf:
+      force: true
+      relink: true
+      path: tmux.conf
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
