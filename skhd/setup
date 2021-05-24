@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -eo pipefail
+
+# absorb brew warnings
+status="$(brew services 2>/dev/null | grep skhd | awk '{print $2}')"
+
+if [ "$status" = 'started' ];then
+  brew services restart skhd
+else
+  brew services start skhd
+fi

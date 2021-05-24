@@ -43,7 +43,7 @@ quietly_brew_bundle(){
 
 info "Installing Homebrew packages..."
 brew tap homebrew/bundle
-for brewfile in Brewfile; do
+for brewfile in Brewfile */Brewfile; do
   quietly_brew_bundle "$brewfile" --verbose
 done
 
@@ -57,8 +57,9 @@ if [ "$SHELL" != '/usr/local/bin/fish' ];then
   chsh -s /usr/local/bin/fish
 fi
 
-# start yabai
-stay_awake_while brew services start yabai
-
-# start skhd
-stay_awake_while brew services start skhd
+info "Running all setup scripts..."
+for setup in */setup; do
+  dir=$(basename "$(dirname "$setup")")
+  info "Running setup for ${dir}..."
+  . "$setup"
+done
