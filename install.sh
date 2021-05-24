@@ -59,3 +59,6 @@ fi
 
 # start yabai
 stay_awake_while brew services start yabai
+
+# start skhd
+stay_awake_while brew services start skhd
