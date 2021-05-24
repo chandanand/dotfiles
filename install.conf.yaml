@@ -17,6 +17,8 @@
       path: tmux.conf
     ~/.bin:
       path: bin
+    ~/.config/karabiner:
+      path: karabiner
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
