@@ -55,3 +55,8 @@ for setup in */setup; do
   info "Running setup for ${dir}..."
   . "$setup"
 done
+
+info "Creating ~/Desktop/screenshots so screenshots can be saved there..."
+mkdir -p ~/Desktop/screenshots
+
+stay_awake_while ./system/osx-settings
