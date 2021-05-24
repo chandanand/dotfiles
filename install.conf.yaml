@@ -25,4 +25,3 @@
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
-  - [sh install.sh, Installing packages]
