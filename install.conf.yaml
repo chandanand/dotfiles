@@ -10,6 +10,14 @@
       force: true
       relink: true
       path: kitty
+    ~/.config/fish:
+      force: true
+      relink: true
+      path: fish
+    ~/.config/starship.toml:
+      force: true
+      relink: true
+      path: starship.toml
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]

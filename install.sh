@@ -20,13 +20,17 @@ info(){
   green "=== $@"
 }
 
+command_does_not_exist(){
+  ! command -v "$1" > /dev/null
+}
+
 stay_awake_while(){
   caffeinate -dims "$@"
 }
 
 
-info "Installing Homebrew (if not already installed)..."
 if command_does_not_exist brew; then
+  info "Installing Homebrew (if not already installed)..."
   stay_awake_while /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 fi
 
@@ -37,4 +41,18 @@ quietly_brew_bundle(){
   stay_awake_while brew bundle --no-lock --file="$brewfile" "$@" | (grep -vE "$regex" || true)
 }
 
+info "Installing Homebrew packages..."
+brew tap homebrew/bundle
+for brewfile in Brewfile; do
+  quietly_brew_bundle "$brewfile" --verbose
+done
+
 quietly_brew_bundle Brewfile.casks || true
+
+info "Installing fish shell..."
+if ! grep -q 'fish' /etc/shells; then
+  echo /usr/local/bin/fish | sudo tee -a /etc/shells
+fi
+if [ "$SHELL" != '/usr/local/bin/fish' ];then
+  chsh -s /usr/local/bin/fish
+fi

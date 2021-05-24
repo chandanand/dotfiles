@@ -1,0 +1,30 @@
+format = """
+$directory$git_branch$git_commit$git_status$git_state
+$character"""
+scan_timeout = 10
+
+[character]
+success_symbol = "[\\$](bold green)"
+
+[package]
+disabled = true
+
+[directory]
+truncation_length = 8
+truncation_symbol = "..."
+style = "cyan"
+fish_style_pwd_dir_length = 10
+use_logical_path = false
+
+[git_branch]
+format = "[$branch]($style) "
+style = "red"
+
+[git_commit]
+format = "\\[[$hash]($style)\\] "
+style = "green"
+only_detached = false
+
+[git_status ]
+style = "red"
+
