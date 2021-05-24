@@ -49,14 +49,6 @@ done
 
 quietly_brew_bundle Brewfile.casks || true
 
-info "Installing fish shell..."
-if ! grep -q 'fish' /etc/shells; then
-  echo /usr/local/bin/fish | sudo tee -a /etc/shells
-fi
-if [ "$SHELL" != '/usr/local/bin/fish' ];then
-  chsh -s /usr/local/bin/fish
-fi
-
 info "Running all setup scripts..."
 for setup in */setup; do
   dir=$(basename "$(dirname "$setup")")

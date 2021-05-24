@@ -1,0 +1,5 @@
+# fish shell
+brew "fish"
+
+# Prompt: https://starship.rs
+brew "starship"

@@ -1,0 +1,9 @@
+info "Installing fish shell..."
+if ! grep -q 'fish' /etc/shells; then
+  echo /usr/local/bin/fish | sudo tee -a /etc/shells
+fi
+if [ "$SHELL" != '/usr/local/bin/fish' ];then
+  info "Your shell is not fish. Changing it to fish..."
+  chsh -s /usr/local/bin/fish
+fi
+
