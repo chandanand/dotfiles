@@ -1,3 +1,5 @@
+fish_add_path $HOME/.bin
+
 set BAT_CONFIG_PATH "~/.config/bat/config"
 
 if test -r ~/.rgrc
