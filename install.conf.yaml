@@ -25,6 +25,10 @@
       path: skhd
     ~/.config/limelight:
       path: limelight
+    ~/.config/bat:
+      path: bat
+    ~/.rgrc:
+      path: rgrc
     /usr/local/bin/limelight:
       path: external/limelight/bin/limelight
 
