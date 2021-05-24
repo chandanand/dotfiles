@@ -12,3 +12,6 @@ brew "starship"
 
 # tmux
 brew "tmux"
+
+# tiling manager for macOS
+brew "koekeishiya/formulae/yabai"

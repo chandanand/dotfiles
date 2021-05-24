@@ -56,3 +56,6 @@ fi
 if [ "$SHELL" != '/usr/local/bin/fish' ];then
   chsh -s /usr/local/bin/fish
 fi
+
+# start yabai
+stay_awake_while brew services start yabai
