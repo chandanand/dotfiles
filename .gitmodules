@@ -2,3 +2,6 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
 	ignore = dirty
+[submodule "external/limelight"]
+	path = external/limelight
+	url = https://github.com/koekeishiya/limelight.git

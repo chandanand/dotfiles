@@ -23,6 +23,10 @@
       path: yabai
     ~/.config/skhd:
       path: skhd
+    ~/.config/limelight:
+      path: limelight
+    /usr/local/bin/limelight:
+      path: external/limelight/bin/limelight
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
