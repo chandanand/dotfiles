@@ -29,6 +29,8 @@
       path: bat
     ~/.rgrc:
       path: rgrc
+    ~/.gitconfig:
+      path: gitconfig
     /usr/local/bin/limelight:
       path: external/limelight/bin/limelight
 

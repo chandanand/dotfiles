@@ -1,0 +1,37 @@
+[user]
+  name = Chand Anand
+  email = canand@uber.com
+[branch]
+	autosetuprebase = always
+[rerere]
+	enabled = true
+[push]
+  default = current
+[color]
+  ui = auto
+[filter "lfs"]
+  clean = git lfs clean %f
+  smudge = git lfs smudge %f
+  required = true
+[diff]
+  tool = vimdiff
+[difftool "opendiff"]
+  cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+  path =
+[core]
+  pager = diff-so-fancy | less --tabs=2 -RFX
+  autocrlf = input
+[include]
+  path = ~/.gitconfig.local
+[init]
+	defaultBranch = main
+[alias]
+	sla = log --oneline --decorate --graph --all
+	alo = log --pretty=format:'%C(yellow)%h%C(reset) - %an [%C(green)%ar%C(reset)] %s'
+	car = commit --amend --no-edit
+	unstage = reset
+	uncommit = reset --soft HEAD^
+	sl = log --oneline --decorate
+	st = status --short --branch
+	full = log -1 --pretty='%C(red)%H%nAuthor: %C(green)%an %C(reset)[%ar]%n%C(magenta)%s%n%b'
+	fad = !git ls-files --others --exclude-standard -m | fzf --reverse --multi
