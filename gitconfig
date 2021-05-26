@@ -25,13 +25,25 @@
   path = ~/.gitconfig.local
 [init]
 	defaultBranch = main
+[merge]
+	ff = only
 [alias]
-	sla = log --oneline --decorate --graph --all
+	aa = add --all
 	alo = log --pretty=format:'%C(yellow)%h%C(reset) - %an [%C(green)%ar%C(reset)] %s'
+	bselect = !git branch | grep -v '^*' | fzf-tmux --reverse | xargs git checkout
+	ca = commit --amend --verbose
 	car = commit --amend --no-edit
-	unstage = reset
-	uncommit = reset --soft HEAD^
-	sl = log --oneline --decorate
-	st = status --short --branch
+	co = checkout
+	fad = !git add &(git ls-files --others --exclude-standard -m | fzf --reverse --multi)
+	fadd = !git fad
 	full = log -1 --pretty='%C(red)%H%nAuthor: %C(green)%an %C(reset)[%ar]%n%C(magenta)%s%n%b'
-	fad = !git ls-files --others --exclude-standard -m | fzf --reverse --multi
+	glog = log -E -i --grep
+	pl = pull
+	ps = push
+	sl = log --oneline --decorate -20
+	sla = log --oneline --decorate --graph --all -20
+	slp = log --oneline --decorate
+	slap = log --oneline --decorate --graph --all
+	st = status --short --branch
+	uncommit = reset --soft HEAD^
+	unstage = reset
