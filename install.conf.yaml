@@ -11,6 +11,8 @@
       path: kitty
     ~/.config/fish:
       path: fish
+    ~/.config/nvim:
+      path: nvim
     ~/.config/starship.toml:
       path: starship.toml
     ~/.tmux.conf:
