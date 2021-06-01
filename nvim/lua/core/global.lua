@@ -1,7 +1,13 @@
 local global = {}
 local home = os.getenv("HOME")
+local path_sep = '/'
+local os_name = vim.loop.os_uname().sysname
 
 function global:load_variables()
+  self.is_mac = os_name == 'Darwin'
+  self.cache_dir = home .. path_sep..'.cache'..path_sep..'nvim'..path_sep
+  self.path_sep = path_sep
+  self.home = home
 end
 
 global:load_variables()
