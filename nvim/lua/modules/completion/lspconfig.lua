@@ -21,6 +21,12 @@ function _G.open_lsp_log()
   vim.cmd("edit " .. path)
 end
 
+vim.cmd('command! -nargs=0 LspLog call v:lua.open_lsp_log()')
+vim.cmd('command! -nargs=0 LspRestart call v:lua.reload_lsp()')
+
+local capabilities = lsp.protocol.make_client_capabilities()
+capabilities.textDocument.completion.completionItem.snippetSupport = true
+
 lsp.handlers['textDocument/publishDiagnostics'] = lsp.with(
   lsp.diagnostic.on_publish_diagnostics, {
     -- Enable underline, use default values
@@ -39,6 +45,7 @@ local sumneko_root_path = global.home.."/.lsp/lua-language-server"
 local sumneko_binary = global.home.."/.lsp/lua-language-server/bin/macOS/lua-language-server"
 lspconfig.sumneko_lua.setup {
   cmd = {sumneko_binary, "-E", sumneko_root_path .. "/main.lua"},
+  capabilities = capabilities,
   settings = {
     Lua = {
       runtime = {

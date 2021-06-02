@@ -15,4 +15,13 @@ completion['glepnir/lspsaga.nvim'] = {
   cmd = 'Lspsaga',
 }
 
+completion['hrsh7th/vim-vsnip'] = {
+  event = 'InsertCharPre',
+  config = conf.vim_vsnip
+}
+
+completion['rafamadriz/friendly-snippets'] = {
+  opt = true
+}
+
 return completion
