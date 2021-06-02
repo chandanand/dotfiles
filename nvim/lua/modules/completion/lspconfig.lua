@@ -1,6 +1,7 @@
-local fn, lsp = vim.fn, vim.lsp
+local fn, lsp, api = vim.fn, vim.lsp, vim.api
 local lspconfig = require('lspconfig')
 local global = require('core.global')
+local format = require('modules.completion.format')
 
 if not packer_plugins['lspsaga.nvim'].loaded then
   vim.cmd [[packadd lspsaga.nvim]]
@@ -41,10 +42,16 @@ lsp.handlers['textDocument/publishDiagnostics'] = lsp.with(
   }
 )
 
-local sumneko_root_path = global.home.."/.lsp/lua-language-server"
-local sumneko_binary = global.home.."/.lsp/lua-language-server/bin/macOS/lua-language-server"
+local enhance_attach = function(client,bufnr)
+  if client.resolved_capabilities.document_formatting then
+    format.lsp_before_save()
+  end
+  api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
+end
+
+local sumneko_binary = fn.stdpath('data').."/lspinstall/lua/sumneko-lua-language-server"
 lspconfig.sumneko_lua.setup {
-  cmd = {sumneko_binary, "-E", sumneko_root_path .. "/main.lua"},
+  cmd = {sumneko_binary},
   capabilities = capabilities,
   settings = {
     Lua = {
@@ -59,5 +66,17 @@ lspconfig.sumneko_lua.setup {
         library = {[fn.expand('$VIMRUNTIME/lua')] = true, [fn.expand('$VIMRUNTIME/lua/vim/lsp')] = true}
       }
     }
+  }
+}
+
+local gopls_binary = fn.stdpath('data').."/lspinstall/go/gopls"
+lspconfig.gopls.setup {
+  cmd = {gopls_binary},
+  on_attach = enhance_attach,
+  capabilities = capabilities,
+  root_dir = lspconfig.util.root_pattern('.git'),
+  init_options = {
+    usePlaceholders=true,
+    completeUnimported=true,
   }
 }

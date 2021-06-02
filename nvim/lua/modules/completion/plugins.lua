@@ -24,4 +24,11 @@ completion['rafamadriz/friendly-snippets'] = {
   opt = true
 }
 
+completion['kabouzeid/nvim-lspinstall'] = {
+  cmd = 'LspInstall',
+  config = function()
+    require'lspinstall'.setup()
+  end
+}
+
 return completion
