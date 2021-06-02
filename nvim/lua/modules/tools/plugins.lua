@@ -11,4 +11,8 @@ tools['nvim-telescope/telescope.nvim'] = {
   },
 }
 
+tools['folke/which-key.nvim'] = {
+  config = conf.which_key
+}
+
 return tools

@@ -28,4 +28,8 @@ function config.telescope()
   require'telescope'.load_extension('dotfiles')
 end
 
+function config.which_key()
+  require("which-key").setup {}
+end
+
 return config
