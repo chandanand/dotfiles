@@ -6,6 +6,10 @@ local map_cmd = bind.map_cmd
 require('keymap.config')
 
 local plug_map = {
+  -- Autocomplete
+  ["i|<Tab>"]      = map_cmd('v:lua.tab_complete()'):with_expr():with_silent(),
+  ["i|<S-Tab>"]    = map_cmd('v:lua.s_tab_complete()'):with_expr():with_silent(),
+  ["i|<CR>"]       = map_cmd([[compe#confirm({ 'keys': "\<Plug>delimitMateCR", 'mode': '' })]]):with_noremap():with_expr():with_silent():with_nowait(),
   -- Lsp
   ["n|<Leader>li"] = map_cr("LspInfo"):with_noremap():with_silent():with_nowait(),
   ["n|<Leader>ll"] = map_cr("LspLog"):with_noremap():with_silent():with_nowait(),
