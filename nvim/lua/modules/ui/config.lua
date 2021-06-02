@@ -103,4 +103,15 @@ function config.indent_blankline()
   vim.cmd('autocmd CursorMoved * IndentBlanklineRefresh')
 end
 
+function config.nvim_bufferline()
+  require('bufferline').setup{
+    options = {
+      modified_icon = '✥',
+      buffer_close_icon = '',
+      mappings = true,
+      always_show_bufferline = false,
+    }
+  }
+end
+
 return config

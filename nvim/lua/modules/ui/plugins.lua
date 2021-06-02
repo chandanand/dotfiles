@@ -29,4 +29,9 @@ ui['lukas-reineke/indent-blankline.nvim'] = {
   config = conf.indent_blankline,
 }
 
+ui['akinsho/nvim-bufferline.lua'] = {
+  config = conf.nvim_bufferline,
+  requires = 'kyazdani42/nvim-web-devicons'
+}
+
 return ui
