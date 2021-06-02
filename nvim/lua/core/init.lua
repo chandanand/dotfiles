@@ -39,8 +39,14 @@ local disable_distribution_plugins = function()
 end
 
 local setup_providers = function()
+  if global.is_mac then
+    vim.g.python3_host_prog = '/usr/local/bin/python3'
+  elseif global.is_unix then
+    vim.g.python3_host_prog = '/usr/bin/python3'
+  else
+    vim.g.loaded_python3_provider = 0
+  end
   vim.g.loaded_python_provider = 0
-  vim.g.loaded_python3_provider = 0
   vim.g.loaded_node_provider = 0
   vim.g.loaded_perl_provider = 0
   vim.g.loaded_ruby_provider = 0

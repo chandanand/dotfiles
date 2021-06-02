@@ -51,6 +51,9 @@ local plug_map = {
   ["n|<Leader>pu"] = map_cr("PackerUpdate"):with_noremap():with_silent():with_nowait(),
   ["n|<Leader>pi"] = map_cr("PackerInstall"):with_noremap():with_silent():with_nowait(),
   ["n|<Leader>pc"] = map_cr("PackerCompile"):with_noremap():with_silent():with_nowait(),
+  -- Plugin Far.vim
+  ["n|<Leader>fz"] = map_cr('Farf'):with_noremap():with_silent(),
+  ["v|<Leader>fz"] = map_cr('Farf'):with_noremap():with_silent(),
 }
 
 bind.nvim_load_mapping(plug_map)

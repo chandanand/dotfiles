@@ -20,4 +20,11 @@ tools['b3nj5m1n/kommentary'] = {
   config = conf.kommentary
 }
 
+tools['brooth/far.vim'] = {
+  cmd = {'Far', 'Farp'},
+  config = function()
+    vim.g['far#source'] = 'rg'
+  end
+}
+
 return tools
