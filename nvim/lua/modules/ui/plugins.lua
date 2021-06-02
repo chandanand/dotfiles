@@ -34,4 +34,8 @@ ui['akinsho/nvim-bufferline.lua'] = {
   requires = 'kyazdani42/nvim-web-devicons'
 }
 
+ui['glepnir/dashboard-nvim'] = {
+  config = conf.dashboard
+}
+
 return ui
