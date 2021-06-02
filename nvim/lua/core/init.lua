@@ -61,6 +61,7 @@ local load_core = function()
 
   pack.ensure_plugins()
   require('core.options')
+  require('core.mapping')
   pack.load_compile()
 end
 
