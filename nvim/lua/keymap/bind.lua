@@ -45,6 +45,11 @@ function rhs_options:with_nowait()
   return self
 end
 
+function rhs_options:with_expr()
+  self.options.expr = true
+  return self
+end
+
 local pbind = {}
 
 function pbind.map_cr(cmd_string)

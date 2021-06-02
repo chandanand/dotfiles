@@ -3,6 +3,7 @@ local global = require('core.global')
 local map_cr = bind.map_cr
 local map_cu = bind.map_cu
 local map_cmd = bind.map_cmd
+require('keymap.config')
 
 local plug_map = {
   -- Lsp
@@ -39,6 +40,9 @@ local plug_map = {
   -- Plugin nvim-tree
   ["n|<Leader>e"] = map_cr('NvimTreeToggle'):with_noremap():with_silent(),
   ["n|<Leader>F"] = map_cr('NvimTreeFindFile'):with_noremap():with_silent(),
+  -- Plugin accelerated-jk
+  ["n|j"] = map_cmd('v:lua.enhance_jk_move("j")'):with_silent():with_expr(),
+  ["n|k"] = map_cmd('v:lua.enhance_jk_move("k")'):with_silent():with_expr(),
 }
 
 bind.nvim_load_mapping(plug_map)
