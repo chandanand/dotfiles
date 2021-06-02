@@ -15,4 +15,9 @@ tools['folke/which-key.nvim'] = {
   config = conf.which_key
 }
 
+tools['b3nj5m1n/kommentary'] = {
+  event = 'BufReadPre',
+  config = conf.kommentary
+}
+
 return tools
