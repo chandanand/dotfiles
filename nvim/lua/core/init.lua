@@ -53,12 +53,15 @@ local map_leader = function()
 end
 
 local load_core = function()
+  local pack = require('core.pack')
   create_dirs()
   disable_distribution_plugins()
   setup_providers()
   map_leader()
 
+  pack.ensure_plugins()
   require('core.options')
+  pack.load_compile()
 end
 
 load_core()
