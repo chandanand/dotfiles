@@ -33,10 +33,12 @@ local plug_map = {
   ["n|ge"]         = map_cr("Lspsaga show_line_diagnostics"):with_noremap():with_silent(),
   -- Plugin Telescope
   ["n|<Leader>bb"] = map_cu('Telescope buffers'):with_noremap():with_silent(),
+  ["n|<Leader>fa"] = map_cu('DashboardFindWord'):with_noremap():with_silent(),
   ["n|<Leader>fb"] = map_cu('Telescope file_browser'):with_noremap():with_silent(),
-  ["n|<Leader>ff"] = map_cu('Telescope find_files'):with_noremap():with_silent(),
+  ["n|<Leader>ff"] = map_cu('DashboardFindFile'):with_noremap():with_silent(),
   ["n|<Leader>fg"] = map_cu('Telescope git_files'):with_noremap():with_silent(),
   ["n|<Leader>fw"] = map_cu('Telescope grep_string'):with_noremap():with_silent(),
+  ["n|<Leader>fh"] = map_cu('DashboardFindHistory'):with_noremap():with_silent(),
   ["n|<Leader>fl"] = map_cu('Telescope loclist'):with_noremap():with_silent(),
   ["n|<Leader>fc"] = map_cu('Telescope git_commits'):with_noremap():with_silent(),
   ["n|<Leader>ft"] = map_cu('Telescope help_tags'):with_noremap():with_silent(),
