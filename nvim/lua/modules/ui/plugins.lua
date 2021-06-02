@@ -1,7 +1,7 @@
 local ui = {}
 
-ui['glepnir/zephyr-nvim'] = {
-  config = [[vim.cmd('colorscheme zephyr')]]
+ui['navarasu/onedark.nvim'] = {
+  config = [[vim.cmd('colorscheme onedark')]]
 }
 
 return ui
