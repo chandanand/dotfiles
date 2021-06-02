@@ -11,4 +11,8 @@ completion['hrsh7th/nvim-compe'] = {
   config = conf.nvim_compe,
 }
 
+completion['glepnir/lspsaga.nvim'] = {
+  cmd = 'Lspsaga',
+}
+
 return completion

@@ -40,6 +40,11 @@ function rhs_options:with_noremap()
   return self
 end
 
+function rhs_options:with_nowait()
+  self.options.nowait = true
+  return self
+end
+
 local pbind = {}
 
 function pbind.map_cr(cmd_string)
