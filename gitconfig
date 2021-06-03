@@ -34,7 +34,7 @@
 	ca = commit --amend --verbose
 	car = commit --amend --no-edit
 	co = checkout
-	fad = !git add &(git ls-files --others --exclude-standard -m | fzf --reverse --multi)
+	fad = !git add $(git ls-files --others --exclude-standard -m | fzf --reverse --multi)
 	fadd = !git fad
 	full = log -1 --pretty='%C(red)%H%nAuthor: %C(green)%an %C(reset)[%ar]%n%C(magenta)%s%n%b'
 	glog = log -E -i --grep
