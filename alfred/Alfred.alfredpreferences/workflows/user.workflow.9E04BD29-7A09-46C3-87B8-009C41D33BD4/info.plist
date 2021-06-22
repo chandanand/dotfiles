@@ -34,102 +34,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>061FFCD8-003F-4985-A6B7-21FFE9A0C1E7</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>4AD97998-D4E3-4D3C-9452-073A22D22501</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>09C68582-9EA1-4016-A80F-909F7E339053</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>59C97172-E7A2-48B3-A24C-237B414FB34D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>189CB27B-8288-43CB-969D-42F3DD56E367</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>E7D5B073-B7BC-4750-9BC9-997E97732D04</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>276EC6E0-D792-4A44-A82A-35412625EE5E</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0252B9DB-3BB2-49FB-920F-95727934D507</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>4505311C-0B19-4009-805A-9C385F1D1CCB</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>EB70403D-5B9E-42CE-BD2C-9F1C271AB886</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>45862DF0-DEFD-4347-87D7-180C9DABB730</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>733C2A9D-B961-4A2E-A6E1-3459CE00FDEA</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>4AE94B2D-65B4-447B-BCE8-F56DBC1DA8F3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>268A1009-4D1E-4D41-9F78-11414E798C98</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>4E7B5889-3973-4F60-BC23-BABDFC5BB86D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>9EFA8973-EC70-49D7-854F-82666BF16312</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -156,32 +65,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>9851A325-B5BA-41DC-8E9A-334FE2B9BC4A</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>540D49E1-E164-4F11-8D9C-90798239A8E3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>A30119D0-7C97-4535-B5FD-E2017C389E77</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>549BCF7D-6800-4649-8497-5D82DF5D173F</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>21A7F85D-E397-4D5A-8750-700182DD251C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -229,76 +112,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>67DF2BC9-AFC6-48DD-8824-BA8F0B7E3A2A</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>9FC06782-1A56-47C0-AD50-C22CE02EC85E</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>68E0E405-7AE3-4D51-B973-382293414DCE</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>0DF759F7-EB9C-4161-BB8D-2D08A53F78AB</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>11D5721D-E45C-4D45-82C8-2CC370002271</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>6EB4DD43-530B-47F8-A349-B0C2BD0216D2</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>DC6D6485-430B-484F-BC3C-116FD62684B2</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>70E733CC-50BE-43AB-9D1B-3F64DBE33B96</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0174ECF8-B7B9-49D1-8F89-FE590435EFF3</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>7D2BBEB2-3AE6-4051-82DA-E92612E49E45</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0252B9DB-3BB2-49FB-920F-95727934D507</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -332,76 +150,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>8B72E7E7-3EB9-4441-8040-78D66BB93D6D</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>8D386BAB-E3BC-4D7D-9402-48874733194F</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>8DCFC571-1B79-4BA1-8F96-EC2045EC76EC</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>2C26801C-6B19-48ED-8C9F-95C3128317A4</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>8FE71B1E-0383-4CBC-8F01-29E6CB9A5279</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>FD06023A-A2CC-4886-97BA-BEDC7B2CF807</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>943D4C13-5C1D-42CE-8E9B-7BDA27A40C54</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>B196F257-7C71-44FD-8215-09048BCC58DC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>9A3B3961-1656-4ECF-A930-BCD6DA056277</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>B5639CE5-BE43-463E-B90F-06FFAAA092AA</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>9C8D4ADD-BD44-4077-881A-549FF090FEBA</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0B178659-E29E-4379-9E2B-33FB613BC243</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -462,63 +215,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>C3C41137-9A52-46C4-ADBF-C2452B16477E</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>9A3E2F11-7E33-4E41-B0D0-4DAD8B35B2FB</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>C8432702-6153-4E88-8A21-5A263BDBE9ED</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>D2444A25-F979-47EC-BC0F-48E84CAECAB1</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>C91ADF49-2485-40E7-BEB2-9E28A30FAE19</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>509B129C-F9D2-4935-927D-A575E9425228</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>CBDB0250-A33D-4C1B-A3FE-BEA784F3BE02</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>CE7701BC-E1AC-449A-BFA6-E7F48CF36A84</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>D805BAD8-39AB-4B93-A509-324E37FD9193</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>5A68F6AA-B24F-4921-902D-14064E46FDC1</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -553,89 +254,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>E5B6C96E-56BF-41A6-9562-345385C14D54</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>8A7884C2-1F5E-4750-9926-65621D862511</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>E7619328-D59A-49C8-8D15-DEC275D98FCB</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>EC6EE48D-9B54-4AC5-AF2B-E2980154D9E0</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>EABCC477-7DA3-4980-853A-F11750177E09</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>47B19A6B-BEF0-4C3B-AF2D-2161A509A877</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>EC23A346-AA86-4898-8CAF-EB199EB0F0AA</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>4969074B-AE1D-45F9-A408-7DA98CBB0275</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>F369816A-ED69-40D6-BAEA-1B1D27D15459</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>BC9025D6-F94F-4D1B-8C2F-C00E10C38DE2</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>F5B4F37A-BAEB-4CF9-8A75-88F283317AEA</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>C1FE9A94-9C55-4ACF-A6AD-DE4FCA3AC413</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>FD502AF0-060E-4560-9CCB-5ECEA584E538</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>5EF9F783-7A15-4EB8-A544-92D4A91B59C9</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -659,9 +282,9 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Renan Cakirerk</string>
+	<string>Chand Anand</string>
 	<key>description</key>
-	<string>Uber Alfred Workflow. See documentation at http://t.uber.com/ualfred</string>
+	<string>Uber Alfred Workflow</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -676,14 +299,14 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://sourcegraph.uberinternal.com/search?q=file:{query}%24+</string>
+				<string>https://search.uberinternal.com/kibana3v2/#/dashboard/elasticsearch/{query}</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>5A68F6AA-B24F-4921-902D-14064E46FDC1</string>
+			<string>0DF759F7-EB9C-4161-BB8D-2D08A53F78AB</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -693,18 +316,18 @@
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>t</string>
+				<string>elk</string>
 				<key>subtext</key>
-				<string>e.g. t123456</string>
+				<string>e.g. elk trident</string>
 				<key>text</key>
-				<string>Open Jira Task</string>
+				<string>Open Kibana</string>
 				<key>withspace</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>943D4C13-5C1D-42CE-8E9B-7BDA27A40C54</string>
+			<string>68E0E405-7AE3-4D51-B973-382293414DCE</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -714,18 +337,18 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>tasks</string>
+				<string>oncall</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Show My Tasks</string>
+				<string>Open Oncall Dashboard</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</string>
+			<string>5771C7ED-AA9F-4E9A-82A7-28431FD3FE4D</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -737,14 +360,33 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://t3.uberinternal.com/secure/RapidBoard.jspa?rapidView=105&amp;view=planning.nodetail&amp;quickFilter=279&amp;issueLimit=100</string>
+				<string>https://oncall.uberinternal.com/rotation/{var:my_oncall_dashboard_team_url}/events/</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>11D5721D-E45C-4D45-82C8-2CC370002271</string>
+			<string>4701E3CA-BD1D-4D76-B01D-669A6428AF66</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://graphite.uberinternal.com/grafana2/dashboard/db/{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>CEE3F645-F926-4765-B0DF-DF99B60A329F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -754,18 +396,18 @@
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>file</string>
+				<string>grafana</string>
 				<key>subtext</key>
-				<string></string>
+				<string>e.g. grafana trident</string>
 				<key>text</key>
-				<string>SourceGraph | Search File</string>
+				<string>Open Grafana</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>D805BAD8-39AB-4B93-A509-324E37FD9193</string>
+			<string>FF7A4A4C-CC03-4104-A70F-417FDE021A0F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -777,73 +419,14 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://t3.uberinternal.com/browse/AP-{query}</string>
+				<string>http://t.uber.com/ap-runbook-oncall</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>B196F257-7C71-44FD-8215-09048BCC58DC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://t3.uberinternal.com/secure/CreateIssue!default.jspa</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>CE7701BC-E1AC-449A-BFA6-E7F48CF36A84</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>code</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>SourceGraph | Search Code</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>C3C41137-9A52-46C4-ADBF-C2452B16477E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://code.uberinternal.com/D{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>47B19A6B-BEF0-4C3B-AF2D-2161A509A877</string>
+			<string>733C2A9D-B961-4A2E-A6E1-3459CE00FDEA</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -853,37 +436,18 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>create task</string>
+				<string>runbook</string>
 				<key>subtext</key>
-				<string></string>
+				<string>Open Authoring Platform runbook</string>
 				<key>text</key>
-				<string>Create New Task</string>
+				<string>Open Runbook</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>CBDB0250-A33D-4C1B-A3FE-BEA784F3BE02</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://sourcegraph.uberinternal.com/search?q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>9A3E2F11-7E33-4E41-B0D0-4DAD8B35B2FB</string>
+			<string>45862DF0-DEFD-4347-87D7-180C9DABB730</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -893,18 +457,56 @@
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>d</string>
+				<string>umonitor</string>
 				<key>subtext</key>
-				<string>e.g. d123456</string>
+				<string>e.g. umonitor bloc</string>
 				<key>text</key>
-				<string>Open Phab Diff</string>
+				<string>Open umonitor</string>
 				<key>withspace</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>EABCC477-7DA3-4980-853A-F11750177E09</string>
+			<string>9DF0DB96-0401-4C60-AB92-8E8369F027BB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://umonitor.uberinternal.com/services/{query}/overview</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>AEB8EE1C-664A-4459-BC51-B940822E6577</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://outages.uberinternal.com/</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>509B129C-F9D2-4935-927D-A575E9425228</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -914,56 +516,18 @@
 				<key>argumenttype</key>
 				<integer>2</integer>
 				<key>keyword</key>
-				<string>diffs</string>
+				<string>commander</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Show My Diffs</string>
+				<string>List Active Outages</string>
 				<key>withspace</key>
 				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>E7619328-D59A-49C8-8D15-DEC275D98FCB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://code.uberinternal.com/</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>EC6EE48D-9B54-4AC5-AF2B-E2980154D9E0</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://sourcegraph.uberinternal.com/code.uber.internal/go-code/-/tree/src/code.uber.internal/communications/authoring-platform/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>4AD97998-D4E3-4D3C-9452-073A22D22501</string>
+			<string>C91ADF49-2485-40E7-BEB2-9E28A30FAE19</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -971,20 +535,479 @@
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
-				<integer>1</integer>
+				<integer>2</integer>
 				<key>keyword</key>
-				<string>mono</string>
+				<string>uuid</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Search Monorepo</string>
+				<string>Copy My UUID To Clipboard</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D8EAD23F-3B4D-478E-BEE5-BE8B2E785794</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>search</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Search Uber</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>061FFCD8-003F-4985-A6B7-21FFE9A0C1E7</string>
+			<string>641065D8-B24D-4CCC-9316-C526D052F8D1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://usearch.uberinternal.com/?q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>86DFF088-FCFB-409F-9F83-CD64011785B9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:my_uuid}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>EC651A29-7A59-4EFD-86E6-1928E14B5CF6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://usearch.uberinternal.com/?q={query}&amp;t=people</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>FD3FF351-C42A-4F2C-B32E-EC8ECEC3E7A9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>people</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Find Uber Employees</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>4F496819-8703-45FC-ABEB-A6904F50F194</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>engdocs</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Open Engdocs</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B2BD132D-1126-4901-8A74-79A2774A23BD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://engdocs.uberinternal.com/</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>FC10F7D1-D7FA-456E-B321-7DCB9333FDCD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://usearch.uberinternal.com/?t=documents&amp;q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>75FD5966-61C0-44DC-B1DD-71C3D46354EE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>docs</string>
+				<key>subtext</key>
+				<string>Searches Google Docs, Phab Wiki, Stack Overflow, ... etc.</string>
+				<key>text</key>
+				<string>Search Documents</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>58BB04E8-397E-44F0-9C06-D9713C9D2A67</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://stack.uberinternal.com/search?q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>EE152337-AA4C-40AF-BABA-AFA9F612D797</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>stack</string>
+				<key>subtext</key>
+				<string>e.g. `stack exception`</string>
+				<key>text</key>
+				<string>Search Uber's internal Stack Overflow</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>027AF230-852F-4FFB-9700-BE120559B4AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://gmail.com</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>C131E1C2-B403-40E6-B7FC-DAF9F5C76461</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>gmail</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Open Gmail</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A98B4135-7F75-411E-9184-1058071F1EB8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>uown</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Search uOwn</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>05E29016-F629-4B41-A66B-6C9D15AE78A2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://uown.uberinternal.com/search?q={query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>E98D72EF-995C-424E-8D3A-8D1F98CF5B8E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://console.uberinternal.com/service/{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>2C26801C-6B19-48ED-8C9F-95C3128317A4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>galaxy</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>An Engineer's Guide to the Galaxy</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>DCECCC33-758E-4911-A927-9462142589DE</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>console</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Open Infra Portal of a Service</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>8DCFC571-1B79-4BA1-8F96-EC2045EC76EC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://t.uber.com/galaxy_confluence</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>DFEDE07C-F706-458C-9FB1-1A2E3ED67974</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>calendar</string>
+				<key>subtext</key>
+				<string>Opens in your default browser</string>
+				<key>text</key>
+				<string>My Calendar</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>F369816A-ED69-40D6-BAEA-1B1D27D15459</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://calendar.google.com/calendar/render</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>BC9025D6-F94F-4D1B-8C2F-C00E10C38DE2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>zoom</string>
+				<key>subtext</key>
+				<string>e.g. `zoom 358395893`</string>
+				<key>text</key>
+				<string>Join a zoom meeting</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>53DAD5D4-BE5A-4308-8B83-8098D1939A61</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>https://uber.zoom.us/j/{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>9851A325-B5BA-41DC-8E9A-334FE2B9BC4A</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1043,58 +1066,18 @@
 						<key>matchstring</key>
 						<string></string>
 						<key>outputlabel</key>
-						<string></string>
+						<string>empty</string>
 						<key>uid</key>
 						<string>5CB966E7-8295-4665-AF81-43A318137FB6</string>
 					</dict>
 				</array>
 				<key>elselabel</key>
-				<string>else</string>
+				<string>specific</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>81F8B8C6-C4E7-4E19-8D46-B99E68A9D05D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>review</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Needs Review</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>C8432702-6153-4E88-8A21-5A263BDBE9ED</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://code.uberinternal.com/differential/query/Xp2B76EJnCK1/</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>D2444A25-F979-47EC-BC0F-48E84CAECAB1</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -1117,1507 +1100,6 @@
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://search.uberinternal.com/kibana3v2/#/dashboard/elasticsearch/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>0DF759F7-EB9C-4161-BB8D-2D08A53F78AB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>elk</string>
-				<key>subtext</key>
-				<string>e.g. elk trident</string>
-				<key>text</key>
-				<string>Open Kibana</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>68E0E405-7AE3-4D51-B973-382293414DCE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>sprint</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Current Sprint</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>8FE71B1E-0383-4CBC-8F01-29E6CB9A5279</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://t3.uberinternal.com/secure/RapidBoard.jspa?rapidView=105&amp;quickFilter=279</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>FD06023A-A2CC-4886-97BA-BEDC7B2CF807</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>calendar</string>
-				<key>subtext</key>
-				<string>Opens in your default browser</string>
-				<key>text</key>
-				<string>My Calendar</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>F369816A-ED69-40D6-BAEA-1B1D27D15459</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://calendar.google.com/calendar/render</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>BC9025D6-F94F-4D1B-8C2F-C00E10C38DE2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>oncall</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Open Oncall Dashboard</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>5771C7ED-AA9F-4E9A-82A7-28431FD3FE4D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://oncall.uberinternal.com/rotation/{var:my_oncall_dashboard_team_url}/events/</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>4701E3CA-BD1D-4D76-B01D-669A6428AF66</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>umonitor</string>
-				<key>subtext</key>
-				<string>e.g. umonitor bloc</string>
-				<key>text</key>
-				<string>Open umonitor</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>9DF0DB96-0401-4C60-AB92-8E8369F027BB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://umonitor.uberinternal.com/services/{query}/overview</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>AEB8EE1C-664A-4459-BC51-B940822E6577</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://graphite.uberinternal.com/grafana2/dashboard/db/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>CEE3F645-F926-4765-B0DF-DF99B60A329F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>grafana</string>
-				<key>subtext</key>
-				<string>e.g. grafana trident</string>
-				<key>text</key>
-				<string>Open Grafana</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>FF7A4A4C-CC03-4104-A70F-417FDE021A0F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>search</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search Uber</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>641065D8-B24D-4CCC-9316-C526D052F8D1</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://usearch.uberinternal.com/?q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>86DFF088-FCFB-409F-9F83-CD64011785B9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>virtualenv --setuptools env</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>9FC06782-1A56-47C0-AD50-C22CE02EC85E</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>mkvenv</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Create Virtualenv</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>67DF2BC9-AFC6-48DD-8824-BA8F0B7E3A2A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://usearch.uberinternal.com/?q={query}&amp;t=people</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>FD3FF351-C42A-4F2C-B32E-EC8ECEC3E7A9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>people</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Find Uber Employees</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>4F496819-8703-45FC-ABEB-A6904F50F194</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>port</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search Port</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>540D49E1-E164-4F11-8D9C-90798239A8E3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://infra.uberinternal.com/ports/?q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>A30119D0-7C97-4535-B5FD-E2017C389E77</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>source env/bin/activate</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>DC6D6485-430B-484F-BC3C-116FD62684B2</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>venv</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Enter Virtualenv</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>6EB4DD43-530B-47F8-A349-B0C2BD0216D2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://usearch.uberinternal.com/?t=documents&amp;q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>75FD5966-61C0-44DC-B1DD-71C3D46354EE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>docs</string>
-				<key>subtext</key>
-				<string>Searches Google Docs, Phab Wiki, Stack Overflow, ... etc.</string>
-				<key>text</key>
-				<string>Search Documents</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>58BB04E8-397E-44F0-9C06-D9713C9D2A67</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>ublame</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search uBlame</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>05E29016-F629-4B41-A66B-6C9D15AE78A2</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://ublame.uberinternal.com/lookup?q={query}&amp;action=blame</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>E98D72EF-995C-424E-8D3A-8D1F98CF5B8E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>curl wttr.in/$1</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>C1FE9A94-9C55-4ACF-A6AD-DE4FCA3AC413</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>weather</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Weather On Terminal</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>F5B4F37A-BAEB-4CF9-8A75-88F283317AEA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>galaxy</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>An Engineer's Guide to the Galaxy</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>DCECCC33-758E-4911-A927-9462142589DE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://t.uber.com/galaxy_confluence</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>DFEDE07C-F706-458C-9FB1-1A2E3ED67974</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://sourcegraph.uberinternal.com/search?q=repo:{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>59C97172-E7A2-48B3-A24C-237B414FB34D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>repo</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search Repository</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>09C68582-9EA1-4016-A80F-909F7E339053</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>colors</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Colors On Terminal</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>4AE94B2D-65B4-447B-BCE8-F56DBC1DA8F3</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>for i in {0..255} ; do printf "\x1b[38;5;${i}mcolour${i}\n"; done</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>268A1009-4D1E-4D41-9F78-11414E798C98</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>uuid</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Copy My UUID To Clipboard</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>D8EAD23F-3B4D-478E-BEE5-BE8B2E785794</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>rider</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Rider</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>7D2BBEB2-3AE6-4051-82DA-E92612E49E45</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{var:my_uuid}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>EC651A29-7A59-4EFD-86E6-1928E14B5CF6</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/t2/clients/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>0252B9DB-3BB2-49FB-920F-95727934D507</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>curl wttr.in/moon</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>0174ECF8-B7B9-49D1-8F89-FE590435EFF3</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>moon</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Moon Phase On Terminal</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>70E733CC-50BE-43AB-9D1B-3F64DBE33B96</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>client</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Rider</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>276EC6E0-D792-4A44-A82A-35412625EE5E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>engdocs</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Open Engdocs</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>B2BD132D-1126-4901-8A74-79A2774A23BD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://engdocs.uberinternal.com/</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>FC10F7D1-D7FA-456E-B321-7DCB9333FDCD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://outages.uberinternal.com/</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>509B129C-F9D2-4935-927D-A575E9425228</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>commander</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>List Active Outages</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>C91ADF49-2485-40E7-BEB2-9E28A30FAE19</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://gmail.com</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>C131E1C2-B403-40E6-B7FC-DAF9F5C76461</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>gmail</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Open Gmail</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>A98B4135-7F75-411E-9184-1058071F1EB8</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://stack.uberinternal.com/search?q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>EE152337-AA4C-40AF-BABA-AFA9F612D797</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>stack</string>
-				<key>subtext</key>
-				<string>e.g. `stack exception`</string>
-				<key>text</key>
-				<string>Search Uber's internal Stack Overflow</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>027AF230-852F-4FFB-9700-BE120559B4AD</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>zoom</string>
-				<key>subtext</key>
-				<string>e.g. `zoom 358395893`</string>
-				<key>text</key>
-				<string>Join a zoom meeting</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>53DAD5D4-BE5A-4308-8B83-8098D1939A61</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://uber.zoom.us/j/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>9851A325-B5BA-41DC-8E9A-334FE2B9BC4A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://ubunny.uberinternal.com/ubunny?q={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>21A7F85D-E397-4D5A-8750-700182DD251C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>trip</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Trip</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>9A3B3961-1656-4ECF-A930-BCD6DA056277</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>ubunny</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search uBunny</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>549BCF7D-6800-4649-8497-5D82DF5D173F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/t2/trips/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>B5639CE5-BE43-463E-B90F-06FFAAA092AA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/t2/workflows/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>5EF9F783-7A15-4EB8-A544-92D4A91B59C9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>workflow</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Workflow</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>FD502AF0-060E-4560-9CCB-5ECEA584E538</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://infra.uberinternal.com/apps/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>2C26801C-6B19-48ED-8C9F-95C3128317A4</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>infra</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Open Infra Portal of a Service</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>8DCFC571-1B79-4BA1-8F96-EC2045EC76EC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/products/admin/product?use_thrift_mapper=true&amp;product_uuid={query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>8A7884C2-1F5E-4750-9926-65621D862511</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>product</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>See Product Details by Its UUID</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>E5B6C96E-56BF-41A6-9562-345385C14D54</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>partner</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Partner</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>8B72E7E7-3EB9-4441-8040-78D66BB93D6D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/t2/partners/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>8D386BAB-E3BC-4D7D-9402-48874733194F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://ubunny.uberinternal.com/ubunny?q=dinner</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>4969074B-AE1D-45F9-A408-7DA98CBB0275</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>dinner</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>What's for Dinner?</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>EC23A346-AA86-4898-8CAF-EB199EB0F0AA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>driver</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Show Driver</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>9C8D4ADD-BD44-4077-881A-549FF090FEBA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://toolshed.uberinternal.com/t2/drivers/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>0B178659-E29E-4379-9E2B-33FB613BC243</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://ubunny.uberinternal.com/ubunny?q=dinner</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>E7D5B073-B7BC-4750-9BC9-997E97732D04</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>lunch</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>What's for Lunch?</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>189CB27B-8288-43CB-969D-42F3DD56E367</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>st</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search My Tasks</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>4E7B5889-3973-4F60-BC23-BABDFC5BB86D</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://t3.uberinternal.com/issues/?jql=status%20%3D%20Open%20AND%20assignee%20in%20(currentUser())AND%20text%20~%20%22{query}%22%20</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>9EFA8973-EC70-49D7-854F-82666BF16312</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>1</integer>
-				<key>keyword</key>
-				<string>idl</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Search IDLs</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>4505311C-0B19-4009-805A-9C385F1D1CCB</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://sourcegraph.uberinternal.com/code.uber.internal/go-code/-/tree/idl/code.uber.internal/communications/authoring-platform/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>EB70403D-5B9E-42CE-BD2C-9F1C271AB886</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://t.uber.com/ap-runbook-oncall</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>733C2A9D-B961-4A2E-A6E1-3459CE00FDEA</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>runbook</string>
-				<key>subtext</key>
-				<string>Open Authoring Platform runbook</string>
-				<key>text</key>
-				<string>Open Runbook</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>45862DF0-DEFD-4347-87D7-180C9DABB730</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
 	<string># uAlfred | Uber Alfred Workflow
@@ -2629,684 +1111,285 @@ An Alfred Workflow specifically designed to boost your productivity as an Uber e
 See the documentation at http://t.uber.com/ualfred</string>
 	<key>uidata</key>
 	<dict>
-		<key>0174ECF8-B7B9-49D1-8F89-FE590435EFF3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>1350</integer>
-		</dict>
-		<key>0252B9DB-3BB2-49FB-920F-95727934D507</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>1330</integer>
-		</dict>
 		<key>027AF230-852F-4FFB-9700-BE120559B4AD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1650</integer>
+			<integer>830</integer>
 		</dict>
 		<key>05E29016-F629-4B41-A66B-6C9D15AE78A2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1010</integer>
-		</dict>
-		<key>061FFCD8-003F-4985-A6B7-21FFE9A0C1E7</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>305</integer>
-		</dict>
-		<key>09C68582-9EA1-4016-A80F-909F7E339053</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>1180</integer>
-		</dict>
-		<key>0B178659-E29E-4379-9E2B-33FB613BC243</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>2180</integer>
+			<integer>1055</integer>
 		</dict>
 		<key>0DF759F7-EB9C-4161-BB8D-2D08A53F78AB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>945</integer>
+			<integer>225</integer>
 			<key>ypos</key>
-			<integer>480</integer>
-		</dict>
-		<key>11D5721D-E45C-4D45-82C8-2CC370002271</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<real>60</real>
+			<integer>30</integer>
 		</dict>
 		<key>13C203FF-06BD-4BBB-A2C7-981248479D3C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1380</integer>
+			<integer>295</integer>
 			<key>ypos</key>
-			<integer>440</integer>
-		</dict>
-		<key>189CB27B-8288-43CB-969D-42F3DD56E367</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<integer>2200</integer>
-		</dict>
-		<key>21A7F85D-E397-4D5A-8750-700182DD251C</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>1780</integer>
-		</dict>
-		<key>268A1009-4D1E-4D41-9F78-11414E798C98</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>1220</integer>
-		</dict>
-		<key>276EC6E0-D792-4A44-A82A-35412625EE5E</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>1450</integer>
+			<integer>1615</integer>
 		</dict>
 		<key>2C26801C-6B19-48ED-8C9F-95C3128317A4</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>1920</integer>
+			<integer>1175</integer>
 		</dict>
 		<key>3D23F549-7364-490B-B980-A2A968AB94B1</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1380</integer>
+			<integer>295</integer>
 			<key>ypos</key>
-			<integer>315</integer>
-		</dict>
-		<key>4505311C-0B19-4009-805A-9C385F1D1CCB</key>
-		<dict>
-			<key>xpos</key>
-			<integer>705</integer>
-			<key>ypos</key>
-			<integer>2530</integer>
+			<integer>1490</integer>
 		</dict>
 		<key>45862DF0-DEFD-4347-87D7-180C9DABB730</key>
 		<dict>
 			<key>xpos</key>
-			<integer>310</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>2785</integer>
+			<integer>160</integer>
 		</dict>
 		<key>4701E3CA-BD1D-4D76-B01D-669A6428AF66</key>
 		<dict>
 			<key>xpos</key>
-			<integer>940</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>610</integer>
-		</dict>
-		<key>47B19A6B-BEF0-4C3B-AF2D-2161A509A877</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>4969074B-AE1D-45F9-A408-7DA98CBB0275</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>2070</integer>
-		</dict>
-		<key>4AD97998-D4E3-4D3C-9452-073A22D22501</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>305</integer>
-		</dict>
-		<key>4AE94B2D-65B4-447B-BCE8-F56DBC1DA8F3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>1220</integer>
-		</dict>
-		<key>4E7B5889-3973-4F60-BC23-BABDFC5BB86D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>310</integer>
-			<key>ypos</key>
-			<integer>2350</integer>
+			<integer>35</integer>
 		</dict>
 		<key>4F496819-8703-45FC-ABEB-A6904F50F194</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>35</integer>
 			<key>ypos</key>
-			<integer>860</integer>
+			<integer>700</integer>
 		</dict>
 		<key>509B129C-F9D2-4935-927D-A575E9425228</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1350</integer>
+			<integer>655</integer>
 			<key>ypos</key>
-			<integer>1530</integer>
+			<integer>290</integer>
 		</dict>
 		<key>53DAD5D4-BE5A-4308-8B83-8098D1939A61</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1770</integer>
-		</dict>
-		<key>540D49E1-E164-4F11-8D9C-90798239A8E3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>890</integer>
-		</dict>
-		<key>549BCF7D-6800-4649-8497-5D82DF5D173F</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<integer>1780</integer>
+			<integer>1300</integer>
 		</dict>
 		<key>5771C7ED-AA9F-4E9A-82A7-28431FD3FE4D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>610</integer>
+			<integer>35</integer>
 		</dict>
 		<key>58BB04E8-397E-44F0-9C06-D9713C9D2A67</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>35</integer>
 			<key>ypos</key>
-			<integer>990</integer>
-		</dict>
-		<key>59C97172-E7A2-48B3-A24C-237B414FB34D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>1180</integer>
-		</dict>
-		<key>5A68F6AA-B24F-4921-902D-14064E46FDC1</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>60</integer>
-		</dict>
-		<key>5EF9F783-7A15-4EB8-A544-92D4A91B59C9</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>1910</integer>
+			<integer>825</integer>
 		</dict>
 		<key>641065D8-B24D-4CCC-9316-C526D052F8D1</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>35</integer>
 			<key>ypos</key>
-			<integer>735</integer>
-		</dict>
-		<key>67DF2BC9-AFC6-48DD-8824-BA8F0B7E3A2A</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>800</integer>
+			<integer>575</integer>
 		</dict>
 		<key>68E0E405-7AE3-4D51-B973-382293414DCE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>715</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>480</integer>
-		</dict>
-		<key>6E4EEBD5-0AB8-4986-8EC0-1CD707F41689</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<real>60</real>
-		</dict>
-		<key>6EB4DD43-530B-47F8-A349-B0C2BD0216D2</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>920</integer>
-		</dict>
-		<key>70E733CC-50BE-43AB-9D1B-3F64DBE33B96</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>1350</integer>
+			<integer>30</integer>
 		</dict>
 		<key>733C2A9D-B961-4A2E-A6E1-3459CE00FDEA</key>
 		<dict>
 			<key>xpos</key>
-			<integer>635</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>2785</integer>
+			<integer>160</integer>
 		</dict>
 		<key>75FD5966-61C0-44DC-B1DD-71C3D46354EE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>990</integer>
-		</dict>
-		<key>7D2BBEB2-3AE6-4051-82DA-E92612E49E45</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>1330</integer>
+			<integer>825</integer>
 		</dict>
 		<key>81F8B8C6-C4E7-4E19-8D46-B99E68A9D05D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1295</integer>
+			<integer>210</integer>
 			<key>ypos</key>
-			<integer>395</integer>
+			<integer>1570</integer>
 		</dict>
 		<key>86DFF088-FCFB-409F-9F83-CD64011785B9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>735</integer>
-		</dict>
-		<key>8A7884C2-1F5E-4750-9926-65621D862511</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>1980</integer>
-		</dict>
-		<key>8B72E7E7-3EB9-4441-8040-78D66BB93D6D</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>2050</integer>
-		</dict>
-		<key>8D386BAB-E3BC-4D7D-9402-48874733194F</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>2050</integer>
+			<integer>575</integer>
 		</dict>
 		<key>8DCFC571-1B79-4BA1-8F96-EC2045EC76EC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1920</integer>
-		</dict>
-		<key>8FE71B1E-0383-4CBC-8F01-29E6CB9A5279</key>
-		<dict>
-			<key>xpos</key>
-			<integer>305</integer>
-			<key>ypos</key>
-			<integer>550</integer>
-		</dict>
-		<key>943D4C13-5C1D-42CE-8E9B-7BDA27A40C54</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>60</integer>
+			<integer>1175</integer>
 		</dict>
 		<key>9851A325-B5BA-41DC-8E9A-334FE2B9BC4A</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1350</integer>
+			<integer>645</integer>
 			<key>ypos</key>
-			<integer>1770</integer>
-		</dict>
-		<key>9A3B3961-1656-4ECF-A930-BCD6DA056277</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>1780</integer>
-		</dict>
-		<key>9A3E2F11-7E33-4E41-B0D0-4DAD8B35B2FB</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>9C8D4ADD-BD44-4077-881A-549FF090FEBA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>2180</integer>
+			<integer>1300</integer>
 		</dict>
 		<key>9DF0DB96-0401-4C60-AB92-8E8369F027BB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>680</integer>
-		</dict>
-		<key>9EFA8973-EC70-49D7-854F-82666BF16312</key>
-		<dict>
-			<key>xpos</key>
-			<integer>510</integer>
-			<key>ypos</key>
-			<integer>2350</integer>
+			<integer>285</integer>
 		</dict>
 		<key>9F589220-2DFF-4DBF-A8F0-03E13C710695</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1140</integer>
+			<integer>55</integer>
 			<key>ypos</key>
-			<integer>370</integer>
-		</dict>
-		<key>9FC06782-1A56-47C0-AD50-C22CE02EC85E</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>800</integer>
-		</dict>
-		<key>A30119D0-7C97-4535-B5FD-E2017C389E77</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>890</integer>
+			<integer>1550</integer>
 		</dict>
 		<key>A98B4135-7F75-411E-9184-1058071F1EB8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>35</integer>
 			<key>ypos</key>
-			<integer>1620</integer>
+			<integer>1055</integer>
 		</dict>
 		<key>AEB8EE1C-664A-4459-BC51-B940822E6577</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1345</integer>
+			<integer>225</integer>
 			<key>ypos</key>
-			<integer>680</integer>
-		</dict>
-		<key>B196F257-7C71-44FD-8215-09048BCC58DC</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>60</integer>
+			<integer>285</integer>
 		</dict>
 		<key>B2BD132D-1126-4901-8A74-79A2774A23BD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1460</integer>
-		</dict>
-		<key>B5639CE5-BE43-463E-B90F-06FFAAA092AA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>940</integer>
-			<key>ypos</key>
-			<integer>1780</integer>
+			<integer>705</integer>
 		</dict>
 		<key>BC9025D6-F94F-4D1B-8C2F-C00E10C38DE2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1350</integer>
+			<integer>240</integer>
 			<key>ypos</key>
-			<integer>560</integer>
+			<integer>1300</integer>
 		</dict>
 		<key>C131E1C2-B403-40E6-B7FC-DAF9F5C76461</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>1620</integer>
-		</dict>
-		<key>C1FE9A94-9C55-4ACF-A6AD-DE4FCA3AC413</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>1080</integer>
-		</dict>
-		<key>C3C41137-9A52-46C4-ADBF-C2452B16477E</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>C8432702-6153-4E88-8A21-5A263BDBE9ED</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<real>420</real>
+			<integer>1055</integer>
 		</dict>
 		<key>C91ADF49-2485-40E7-BEB2-9E28A30FAE19</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>440</integer>
 			<key>ypos</key>
-			<integer>1530</integer>
-		</dict>
-		<key>CBDB0250-A33D-4C1B-A3FE-BEA784F3BE02</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<real>180</real>
-		</dict>
-		<key>CE7701BC-E1AC-449A-BFA6-E7F48CF36A84</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<real>180</real>
+			<integer>290</integer>
 		</dict>
 		<key>CEE3F645-F926-4765-B0DF-DF99B60A329F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>940</integer>
+			<integer>225</integer>
 			<key>ypos</key>
-			<integer>730</integer>
-		</dict>
-		<key>D2444A25-F979-47EC-BC0F-48E84CAECAB1</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<real>420</real>
-		</dict>
-		<key>D805BAD8-39AB-4B93-A509-324E37FD9193</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>60</integer>
+			<integer>155</integer>
 		</dict>
 		<key>D8EAD23F-3B4D-478E-BEE5-BE8B2E785794</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>450</integer>
 			<key>ypos</key>
-			<integer>1330</integer>
-		</dict>
-		<key>DC6D6485-430B-484F-BC3C-116FD62684B2</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1350</integer>
-			<key>ypos</key>
-			<integer>920</integer>
+			<integer>575</integer>
 		</dict>
 		<key>DCECCC33-758E-4911-A927-9462142589DE</key>
 		<dict>
 			<key>xpos</key>
-			<integer>300</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>1130</integer>
+			<integer>1175</integer>
 		</dict>
 		<key>DFEDE07C-F706-458C-9FB1-1A2E3ED67974</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>1130</integer>
-		</dict>
-		<key>E5B6C96E-56BF-41A6-9562-345385C14D54</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>1980</integer>
-		</dict>
-		<key>E7619328-D59A-49C8-8D15-DEC275D98FCB</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<real>300</real>
-		</dict>
-		<key>E7D5B073-B7BC-4750-9BC9-997E97732D04</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<integer>2200</integer>
+			<integer>1175</integer>
 		</dict>
 		<key>E98D72EF-995C-424E-8D3A-8D1F98CF5B8E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>940</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>1010</integer>
-		</dict>
-		<key>EABCC477-7DA3-4980-853A-F11750177E09</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>EB70403D-5B9E-42CE-BD2C-9F1C271AB886</key>
-		<dict>
-			<key>xpos</key>
-			<integer>935</integer>
-			<key>ypos</key>
-			<integer>2530</integer>
-		</dict>
-		<key>EC23A346-AA86-4898-8CAF-EB199EB0F0AA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>300</integer>
-			<key>ypos</key>
-			<integer>2070</integer>
+			<integer>1055</integer>
 		</dict>
 		<key>EC651A29-7A59-4EFD-86E6-1928E14B5CF6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>1330</integer>
-		</dict>
-		<key>EC6EE48D-9B54-4AC5-AF2B-E2980154D9E0</key>
-		<dict>
-			<key>xpos</key>
-			<integer>500</integer>
-			<key>ypos</key>
-			<real>300</real>
+			<integer>575</integer>
 		</dict>
 		<key>EE152337-AA4C-40AF-BABA-AFA9F612D797</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1350</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>1650</integer>
+			<integer>830</integer>
 		</dict>
 		<key>F369816A-ED69-40D6-BAEA-1B1D27D15459</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1150</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>560</integer>
-		</dict>
-		<key>F5B4F37A-BAEB-4CF9-8A75-88F283317AEA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>1150</integer>
-			<key>ypos</key>
-			<integer>1080</integer>
+			<integer>1300</integer>
 		</dict>
 		<key>FC10F7D1-D7FA-456E-B321-7DCB9333FDCD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>650</integer>
 			<key>ypos</key>
-			<integer>1460</integer>
-		</dict>
-		<key>FD06023A-A2CC-4886-97BA-BEDC7B2CF807</key>
-		<dict>
-			<key>xpos</key>
-			<integer>505</integer>
-			<key>ypos</key>
-			<integer>550</integer>
+			<integer>705</integer>
 		</dict>
 		<key>FD3FF351-C42A-4F2C-B32E-EC8ECEC3E7A9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>500</integer>
+			<integer>235</integer>
 			<key>ypos</key>
-			<integer>860</integer>
-		</dict>
-		<key>FD502AF0-060E-4560-9CCB-5ECEA584E538</key>
-		<dict>
-			<key>xpos</key>
-			<integer>710</integer>
-			<key>ypos</key>
-			<integer>1910</integer>
+			<integer>700</integer>
 		</dict>
 		<key>FF7A4A4C-CC03-4104-A70F-417FDE021A0F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>710</integer>
+			<integer>30</integer>
 			<key>ypos</key>
-			<integer>730</integer>
+			<integer>155</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
