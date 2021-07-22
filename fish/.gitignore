@@ -1,3 +1,4 @@
 # work related envs
 conf.d/uber.fish
+functions/mydevpod.fish
 fish_variables
