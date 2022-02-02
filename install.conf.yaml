@@ -19,8 +19,6 @@
       path: tmux.conf
     ~/.bin:
       path: bin
-    ~/.config/karabiner:
-      path: karabiner
     ~/.config/yabai:
       path: yabai
     ~/.config/skhd:
