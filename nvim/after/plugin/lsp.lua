@@ -55,7 +55,6 @@ lsp.set_sign_icons({
 })
 
 local cmp = require('cmp')
-local cmp_format = lsp.cmp_format()
 
 require('luasnip.loaders.from_vscode').lazy_load()
 
@@ -65,7 +64,6 @@ cmp.setup({
         { name = 'nvim_lua' },
         { name = 'luasnip' },
     },
-    formatting = cmp_format,
     preselect = 'item',
     completion = {
         completeopt = 'menu,menuone,noinsert'
