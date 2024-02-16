@@ -19,7 +19,7 @@
   cmd = opendiff \"$LOCAL\" \"$REMOTE\"
   path =
 [core]
-  pager = diff-so-fancy | less --tabs=2 -RFX
+  pager = bat
   autocrlf = input
 [include]
   path = ~/.gitconfig.local
@@ -33,6 +33,7 @@
 	bselect = !git branch | grep -v '^*' | fzf-tmux --reverse | xargs git checkout
 	ca = commit --amend --verbose
 	car = commit --amend --no-edit
+	cm = commit -m
 	co = checkout
 	fad = !git add $(git ls-files --others --exclude-standard -m | fzf --reverse --multi)
 	fadd = !git fad
