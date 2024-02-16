@@ -1,0 +1,59 @@
+# Set the shell to zsh
+export SHELL=/bin/zsh
+
+export LANG=en_US.UTF8
+export LC_ALL=en_US.UTF-8
+
+# Import locations
+export ZSH_CUSTOM=~/.config/zsh/custom/
+export ZSH_ENV_HOME=$HOME/
+
+export XDG_CONFIG_HOME=$HOME/.config/
+
+## ZSH options
+setopt functionargzero
+setopt hist_ignore_space
+
+autoload -U +X bashcompinit && bashcompinit
+autoload -U +X compinit && compinit
+
+eval "$(starship init zsh)"
+
+bindkey '^ ' autosuggest-accept
+bindkey '^n' autosuggest-accept
+
+## My "Plugins"
+sources=(
+  aliases
+  functions
+  plugins
+)
+
+for s in "${sources[@]}"; do
+  source $HOME/.config/zsh/include/${s}.zsh
+done
+
+# {{{1 Language specific configuration
+# {{{2 Go
+if [ -d /usr/local/go/bin/ ]; then
+  export GOPATH=~/go
+  export GOBIN="$GOPATH/bin"
+  export PATH="/usr/local/go/bin:$GOBIN:$PATH"
+elif [ -d ~/.go/bin/ ]; then
+  export GOPATH="$HOME/.gopath"
+  export GOROOT="$HOME/.go"
+  export GOBIN="$GOPATH/bin"
+  export PATH="$GOBIN/bin:$PATH"
+fi
+# }}}
+# {{{2 Rust
+export PATH="$HOME/.cargo/bin:$PATH"
+# }}}
+
+export HISTSIZE=100000000
+export SAVEHIST=$HISTSIZE
+export HISTFILE=$HOME/.local/zsh_history
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+export PATH="$HOME/.local/bin/:$PATH"
