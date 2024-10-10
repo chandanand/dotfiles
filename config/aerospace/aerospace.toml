@@ -109,8 +109,9 @@ alt-1 = 'workspace 1'
 alt-2 = 'workspace 2'
 alt-3 = 'workspace 3'
 alt-4 = 'workspace 4'
-alt-t = 'workspace T'
-alt-w = 'workspace W'
+alt-t = 'workspace T' # [T]erminal
+alt-w = 'workspace W' # [W]eb Browser
+alt-m = 'workspace M' # [M]essaging
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
 alt-shift-1 = ['move-node-to-workspace 1', 'workspace 1']
@@ -119,6 +120,7 @@ alt-shift-3 = ['move-node-to-workspace 3', 'workspace 3']
 alt-shift-4 = ['move-node-to-workspace 4', 'workspace 4']
 alt-shift-t = ['move-node-to-workspace T', 'workspace T']
 alt-shift-w = ['move-node-to-workspace W', 'workspace W']
+alt-shift-m = ['move-node-to-workspace M', 'workspace M']
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#workspace-back-and-forth
 alt-tab = 'workspace-back-and-forth'
@@ -144,10 +146,16 @@ alt-shift-j = ['join-with down', 'mode main']
 alt-shift-k = ['join-with up', 'mode main']
 alt-shift-l = ['join-with right', 'mode main']
 
+# Per-app configuration
+
 [[on-window-detected]]
 if.app-id = 'com.github.wez.wezterm'
-run = 'move-node-to-workspace T' # mnemonics T - Terminal
+run = 'move-node-to-workspace T'
 
 [[on-window-detected]]
 if.app-id = 'company.thebrowser.Browser'
-run = 'move-node-to-workspace W' # mnemonics W - Web Browser
+run = 'move-node-to-workspace W'
+
+[[on-window-detected]]
+if.app-id = 'com.tinyspeck.slackmacgap'
+run = 'move-node-to-workspace M'
