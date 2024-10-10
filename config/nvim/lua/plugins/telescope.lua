@@ -8,17 +8,8 @@ return {
       -- Useful for getting pretty icons, but requires a Nerd Font.
       { 'nvim-tree/nvim-web-devicons', enabled = vim.g.have_nerd_font },
     },
-    config = function()
-      require('telescope').setup {}
-
-      pcall(require('telescope').load_extension, 'harpoon')
-      pcall(require('telescope').load_extension, 'import')
-      pcall(require('telescope').load_extension, 'neoclip')
-      pcall(require('telescope').load_extension, 'package_info')
-      pcall(require('telescope').load_extension, 'smart_open')
-      pcall(require('telescope').load_extension, 'undo')
-      pcall(require('telescope').load_extension, 'zf-native')
-      pcall(require('telescope').load_extension, 'live_grep_args')
+    config = function(_, opts)
+      require('telescope').setup(opts)
 
       local builtin = require 'telescope.builtin'
       vim.keymap.set('n', '<leader>sh', builtin.help_tags, { desc = '[S]earch [H]elp' })
@@ -55,5 +46,67 @@ return {
         builtin.find_files { cwd = vim.fn.stdpath 'config' }
       end, { desc = '[S]earch [N]eovim files' })
     end,
+    opts = {
+      defaults = {
+        file_ignore_patterns = { '.git/', 'node_modules' },
+        layout_config = {
+          height = 0.90,
+          width = 0.90,
+          preview_cutoff = 0,
+          horizontal = { preview_width = 0.60 },
+          vertical = { width = 0.55, height = 0.9, preview_cutoff = 0 },
+          prompt_position = 'top',
+        },
+        path_display = { 'smart' },
+        prompt_position = 'top',
+        prompt_prefix = ' ',
+        selection_caret = ' ',
+        sorting_strategy = 'ascending',
+        vimgrep_arguments = {
+          'rg',
+          '--color=never',
+          '--no-heading',
+          '--hidden',
+          '--with-filename',
+          '--line-number',
+          '--column',
+          '--smart-case',
+          '--trim', -- add this value
+        },
+      },
+      pickers = {
+        buffers = {
+          prompt_prefix = '󰸩 ',
+        },
+        commands = {
+          prompt_prefix = ' ',
+          layout_config = {
+            height = 0.63,
+            width = 0.78,
+          },
+        },
+        command_history = {
+          prompt_prefix = ' ',
+          layout_config = {
+            height = 0.63,
+            width = 0.58,
+          },
+        },
+        git_files = {
+          prompt_prefix = '󰊢 ',
+          show_untracked = true,
+        },
+        find_files = {
+          prompt_prefix = ' ',
+          find_command = { 'fd', '-H' },
+        },
+        live_grep = {
+          prompt_prefix = '󰱽 ',
+        },
+        grep_string = {
+          prompt_prefix = '󰱽 ',
+        },
+      },
+    },
   },
 }
