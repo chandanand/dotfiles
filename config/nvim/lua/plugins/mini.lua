@@ -37,6 +37,8 @@ return {
       require('mini.files').setup()
 
       vim.keymap.set('n', '-', '<CMD>lua MiniFiles.open()<CR>', { desc = 'Open file browser' })
+
+      require('mini.starter').setup()
     end,
   },
 }
