@@ -14,10 +14,10 @@ local config = {
 	}),
 
 	window_padding = {
-		left = 40,
-		right = 20,
-		top = 30,
-		bottom = 20,
+		left = 10,
+		right = 10,
+		top = 5,
+		bottom = 5,
 	},
 
 	set_environment_variables = {
