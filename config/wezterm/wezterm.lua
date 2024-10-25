@@ -4,6 +4,7 @@ local cs = require("color_scheme")
 
 local config = {
 	background = {},
+	window_background_opacity = 0.8,
 
 	font_size = 15,
 
