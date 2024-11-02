@@ -10,6 +10,7 @@ local config = {
 
 	line_height = 1.1,
 	font = wezterm.font_with_fallback({
+		"Cascadia Code NF",
 		"CommitMono Nerd Font",
 		{ family = "Symbols Nerd Font Mono" },
 	}),
